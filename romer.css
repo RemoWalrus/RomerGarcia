@@ -51,3 +51,10 @@
  	border-collapse: collapse;
  	border-spacing: 0;
  }
+
+ /* Main Style */
+
+ h1, h2, h3, h4, h5, h6 {
+   font-family: 'Josefin Sans', sans-serif;
+  
+ }
